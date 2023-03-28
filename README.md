@@ -7,7 +7,7 @@
 
 ## Descrição do Projeto 
 
-Projeto mobile de listagem de filmes e personagens de Star Wars utilizando Flutter usando uma Api Swapi. Você poderá marcar seus filmes e personagens favoritos sobre star wars.
+Projeto mobile de listagem de filmes e personagens de Star Wars utilizando Flutter usando uma Api Swapi. Você poderá marcar seus filmes e personagens favoritos sobre star wars!.
 
 ## Como executar o Aplicativo
 
